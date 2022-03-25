@@ -1,0 +1,7 @@
+#!name=Douban Movie Add-ons
+
+[Script]
+http-response ^https://m.douban.com/movie/subject/.+ script-path=https://raw.githubusercontent.com/Neurogram-R/Surge/master/Douban.js,requires-body=true,max-size=307200
+
+[MITM]
+hostname = m.douban.com

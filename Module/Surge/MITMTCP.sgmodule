@@ -1,6 +1,0 @@
-#!name=MITM TCP
-#!desc=解密 TCP 流量
-#!system=ios
-
-[MITM]
-tcp-connection = true

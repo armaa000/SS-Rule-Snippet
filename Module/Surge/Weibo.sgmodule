@@ -1,5 +1,5 @@
 #!name=Weibo
 [Rule]
-DOMAIN,api.weibo.cn,Proxy
-DOMAIN,mapi.weibo.com,Proxy
-DOMAIN,*.uve.weibo.com,Proxy
+DOMAIN,api.weibo.cn,Google FCM
+DOMAIN,mapi.weibo.com,Google FCM
+DOMAIN,*.uve.weibo.com,Google FCM

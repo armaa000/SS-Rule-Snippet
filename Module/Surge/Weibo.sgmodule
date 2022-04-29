@@ -4,4 +4,5 @@ DOMAIN,api.weibo.cn,Google FCM
 DOMAIN,mapi.weibo.com,Google FCM
 DOMAIN,*.uve.weibo.com,Google FCM
 DOMAIN,truthsocial.com,Google FCM
-DOMAIN,*.truthsocial.com,Google FCM
+DOMAIN,trk.bonsa.net,Google FCM
+DOMAIN,static-assets.truthsocial.com,Google FCM

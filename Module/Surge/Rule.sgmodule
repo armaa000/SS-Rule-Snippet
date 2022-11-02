@@ -10,12 +10,12 @@ DOMAIN-KEYWORD,weibo,Google FCM
 DOMAIN,truthsocial.com,Google FCM
 DOMAIN,trk.bonsa.net,Google FCM
 DOMAIN,static-assets.truthsocial.com,Google FCM
-DOMAIN-KEYWORD,core-c-lq
-DOMAIN-KEYWORD,core-lq
-DOMAIN-KEYWORD,normal-c-lq
-DOMAIN-KEYWORD,normal-lq
-DOMAIN-KEYWORD,search-quic-lq
-DOMAIN-KEYWORD,search-lq
+DOMAIN-KEYWORD,core-c-lq,Google FCM
+DOMAIN-KEYWORD,core-lq,Google FCM
+DOMAIN-KEYWORD,normal-c-lq,Google FCM
+DOMAIN-KEYWORD,normal-lq,Google FCM
+DOMAIN-KEYWORD,search-quic-lq,Google FCM
+DOMAIN-KEYWORD,search-lq,Google FCM
 IP-ASN,132203,DIRECT
 
 [MITM]

@@ -2,11 +2,20 @@
 
 [Rule]
 DOMAIN,api.weibo.cn,Google FCM
-DOMAIN,mapi.weibo.com,Google FCM
-DOMAIN,*.uve.weibo.com,Google FCM
+DOMAIN,api.weibo.com,Google FCM
+DOMAIN-SUFFIX,weibo.cn,Google FCM
+DOMAIN-SUFFIX,weibo.com,Google FCM
+DOMAIN-SUFFIX,weibocdn.com,Google FCM
+DOMAIN-KEYWORD,weibo,Google FCM
 DOMAIN,truthsocial.com,Google FCM
 DOMAIN,trk.bonsa.net,Google FCM
 DOMAIN,static-assets.truthsocial.com,Google FCM
+DOMAIN-KEYWORD,core-c-lq
+DOMAIN-KEYWORD,core-lq
+DOMAIN-KEYWORD,normal-c-lq
+DOMAIN-KEYWORD,normal-lq
+DOMAIN-KEYWORD,search-quic-lq
+DOMAIN-KEYWORD,search-lq
 IP-ASN,132203,DIRECT
 
 [MITM]

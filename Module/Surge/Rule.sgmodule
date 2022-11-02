@@ -3,10 +3,6 @@
 [Rule]
 DOMAIN,api.weibo.cn,Google FCM
 DOMAIN,api.weibo.com,Google FCM
-DOMAIN-SUFFIX,weibo.cn,Google FCM
-DOMAIN-SUFFIX,weibo.com,Google FCM
-DOMAIN-SUFFIX,weibocdn.com,Google FCM
-DOMAIN-KEYWORD,weibo,Google FCM
 DOMAIN,truthsocial.com,Google FCM
 DOMAIN,trk.bonsa.net,Google FCM
 DOMAIN,static-assets.truthsocial.com,Google FCM

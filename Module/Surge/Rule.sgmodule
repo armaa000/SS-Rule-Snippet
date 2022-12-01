@@ -1,4 +1,5 @@
 #!name=Rule
+#DOMAIN-KEYWORD,amemv,Google FCM
 
 [Rule]
 DOMAIN,api.weibo.cn,Google FCM
@@ -6,7 +7,6 @@ DOMAIN,api.weibo.com,Google FCM
 DOMAIN,truthsocial.com,Google FCM
 DOMAIN,trk.bonsa.net,Google FCM
 DOMAIN,static-assets.truthsocial.com,Google FCM
-DOMAIN-KEYWORD,amemv,Google FCM
 IP-ASN,132203,DIRECT
 
 [MITM]

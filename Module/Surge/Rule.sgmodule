@@ -8,6 +8,7 @@
 
 [Rule]
 IP-ASN,132203,DIRECT
+DOMAIN,8hao857.com,Proxy
 
 [MITM]
 hostname = -*.tiktokv.com

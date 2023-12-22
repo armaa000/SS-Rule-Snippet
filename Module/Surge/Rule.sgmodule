@@ -9,7 +9,7 @@
 [Rule]
 IP-ASN,132203,DIRECT
 DOMAIN,8hao857.com,Proxy
-DOMAIN,beams.co.jp,Proxy
+DOMAIN-SUFFIX,beams.co.jp,Proxy
 
 [MITM]
 hostname = -*.tiktokv.com

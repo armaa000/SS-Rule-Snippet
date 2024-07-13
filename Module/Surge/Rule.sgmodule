@@ -9,5 +9,6 @@
 [Rule]
 IP-ASN,132203,DIRECT
 DOMAIN-SUFFIX,beams.co.jp,Proxy
+DOMAIN-SUFFIX,apple-mapkit.com,Proxy
 
 [MITM]

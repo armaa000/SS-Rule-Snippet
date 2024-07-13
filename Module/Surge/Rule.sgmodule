@@ -10,6 +10,6 @@
 IP-ASN,132203,DIRECT
 DOMAIN-SUFFIX,beams.co.jp,Proxy
 DOMAIN-SUFFIX,gs-loc.apple.com,DIRECT
-DOMAIN-SUFFIX,gsp*.apple.com,DIRECT
+DOMAIN-KEYWORD,gsp*.apple.com,DIRECT
 
 [MITM]

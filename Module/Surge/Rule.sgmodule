@@ -5,9 +5,9 @@
 #DOMAIN,truthsocial.com,Google FCM
 #DOMAIN,trk.bonsa.net,Google FCM
 #DOMAIN,static-assets.truthsocial.com,Google FCM
+#IP-ASN,132203,DIRECT,no-resolve
 
 [Rule]
-IP-ASN,132203,DIRECT,no-resolve
 DOMAIN-SUFFIX,beams.co.jp,Proxy
 AND,((DOMAIN-KEYWORD,cn), (DOMAIN-SUFFIX,ls.apple.com)),DIRECT
 

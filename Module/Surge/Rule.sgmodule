@@ -10,5 +10,6 @@
 
 [Rule]
 AND,((DOMAIN-KEYWORD,cn), (DOMAIN-SUFFIX,ls.apple.com)),DIRECT
+AND,((DOMAIN-KEYWORD,cn), (DOMAIN-KEYWORD,duolinggo)),DIRECT
 
 [MITM]

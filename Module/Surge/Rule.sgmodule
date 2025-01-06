@@ -12,6 +12,7 @@
 AND,((DOMAIN-KEYWORD,cn), (DOMAIN-SUFFIX,ls.apple.com)),DIRECT
 DOMAIN-KEYWORD,duolingo,DIRECT
 DOMAIN-KEYWORD,agoda,Proxy
+DOMAIN-SUFFIX,gs-loc.apple.com,Proxy
 
 [MITM]
 

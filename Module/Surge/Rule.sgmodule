@@ -13,6 +13,17 @@ AND,((DOMAIN-KEYWORD,cn), (DOMAIN-SUFFIX,ls.apple.com)),DIRECT
 DOMAIN-KEYWORD,duolingo,DIRECT
 DOMAIN-KEYWORD,agoda,Proxy
 DOMAIN-SUFFIX,gs-loc.apple.com,DIRECT
+# > Tesla
+DOMAIN,tesla-cdn.thron.cn,DIRECT
+DOMAIN,tesla-cdn.thron.com,DIRECT
+DOMAIN-SUFFIX,solarcity.com,DIRECT
+DOMAIN-SUFFIX,tesla.cn,DIRECT
+DOMAIN-SUFFIX,tesla.com,DIRECT
+DOMAIN-SUFFIX,tesla.com.cn,DIRECT
+DOMAIN-SUFFIX,teslamotors.cn,DIRECT
+DOMAIN-SUFFIX,teslamotors.com,DIRECT
+DOMAIN-SUFFIX,teslamotors.com.cn,DIRECT
+DOMAIN-SUFFIX,ts.la,DIRECT
 
 [MITM]
 

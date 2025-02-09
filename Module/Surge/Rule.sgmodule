@@ -13,6 +13,7 @@ AND,((DOMAIN-KEYWORD,cn), (DOMAIN-SUFFIX,ls.apple.com)),DIRECT
 DOMAIN-KEYWORD,duolingo,DIRECT
 DOMAIN-KEYWORD,agoda,Proxy
 DOMAIN-SUFFIX,gs-loc.apple.com,DIRECT
+PROCESS-NAME,i4Tools,DIRECT
 # > Tesla
 DOMAIN,tesla-cdn.thron.cn,DIRECT
 DOMAIN,tesla-cdn.thron.com,DIRECT

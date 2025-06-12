@@ -15,6 +15,7 @@ DOMAIN-KEYWORD,agoda,Proxy
 DOMAIN-KEYWORD,creditkarma,PayPal
 DOMAIN-KEYWORD,equifax,PayPal
 DOMAIN-KEYWORD,olt,PayPal
+DOMAIN-KEYWORD,ultramobile,PayPal
 DOMAIN-SUFFIX,gs-loc.apple.com,DIRECT
 PROCESS-NAME,i4Tools,DIRECT
 

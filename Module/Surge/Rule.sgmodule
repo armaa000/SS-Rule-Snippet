@@ -1,4 +1,6 @@
 #!name=Rule
+#!desc=Edit
+#!category=Enhancements
 #DOMAIN-KEYWORD,amemv,Google FCM
 #DOMAIN,api.weibo.cn,Google FCM
 #DOMAIN,api.weibo.com,Google FCM
@@ -6,7 +8,7 @@
 #DOMAIN,trk.bonsa.net,Google FCM
 #DOMAIN,static-assets.truthsocial.com,Google FCM
 #IP-ASN,132203,DIRECT,no-resolve
-#DOMAIN-SUFFIX,beams.co.jp,Proxy
+#DOMAIN-SUFFIX,gs-loc.apple.com,DIRECT
 
 [Rule]
 AND,((DOMAIN-KEYWORD,cn), (DOMAIN-SUFFIX,ls.apple.com)),DIRECT
@@ -19,8 +21,6 @@ DOMAIN-KEYWORD,olt,PayPal
 DOMAIN-KEYWORD,ultramobile,PayPal
 DOMAIN-KEYWORD,fidelity,PayPal
 DOMAIN-KEYWORD,USPS,PayPal
-DOMAIN-SUFFIX,gs-loc.apple.com,DIRECT
-PROCESS-NAME,i4Tools,DIRECT
 
 # > Tesla
 DOMAIN,tesla-cdn.thron.cn,DIRECT

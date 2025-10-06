@@ -21,6 +21,7 @@ DOMAIN-KEYWORD,olt,PayPal
 DOMAIN-KEYWORD,ultramobile,PayPal
 DOMAIN-KEYWORD,fidelity,PayPal
 DOMAIN-KEYWORD,USPS,PayPal
+DOMAIN-KEYWORD,venmo,PayPal
 
 # > Tesla
 DOMAIN,tesla-cdn.thron.cn,DIRECT

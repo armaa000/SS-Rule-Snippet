@@ -14,15 +14,6 @@
 AND,((DOMAIN-KEYWORD,cn), (DOMAIN-SUFFIX,ls.apple.com)),DIRECT
 DOMAIN-KEYWORD,duolingo,DIRECT
 DOMAIN-KEYWORD,agoda,Proxy
-DOMAIN-SUFFIX,moomoo.com,Proxy
-DOMAIN-SUFFIX,futuhn.com,Proxy
-DOMAIN-SUFFIX,futustatic.com,Proxy
-DOMAIN-SUFFIX,futunn.com,Proxy
-DOMAIN-SUFFIX,lbkrs.com,Proxy
-DOMAIN-SUFFIX,longbridge.app,Proxy
-DOMAIN-SUFFIX,longbridge.global,Proxy
-DOMAIN-SUFFIX,longportapp.com,Proxy
-DOMAIN-SUFFIX,longbridge.com,Proxy
 DOMAIN-KEYWORD,creditkarma,PayPal
 DOMAIN-KEYWORD,equifax,PayPal
 DOMAIN-KEYWORD,olt,PayPal

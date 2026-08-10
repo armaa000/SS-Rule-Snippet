@@ -38,6 +38,9 @@ DOMAIN-SUFFIX,ts.la,DIRECT
 63182sh8-4d7b.apt-hcloud.net = 37f36sh0-2fd9.apt-agent.net
 7d0a2gz0-7a0c.apt-hcloud.net = 79d52gz8-a3k5.apt-agent.net
 8bf71bj7-dc2c.apt-hcloud.net = 6b305bj0-f5x7.apt-agent.net
+63182sh8-4d7b.aws-agent.net = 37f36sh0-2fd9.apt-agent.net
+7d0a2gz0-7a0c.aws-agent.net = 79d52gz8-a3k5.apt-agent.net
+8bf71bj7-dc2c.aws-agent.net = 6b305bj0-f5x7.apt-agent.net
 
 [MITM]
 

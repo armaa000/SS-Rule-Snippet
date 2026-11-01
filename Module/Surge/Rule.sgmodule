@@ -22,6 +22,16 @@ DOMAIN-KEYWORD,fidelity,PayPal
 DOMAIN-KEYWORD,USPS,PayPal
 DOMAIN-KEYWORD,venmo,PayPal
 
+# > Claude
+DOMAIN-SUFFIX,stripe.com,AI Suite
+DOMAIN-SUFFIX,stripe.network,AI Suite
+DOMAIN-SUFFIX,statsig.com,AI Suite
+DOMAIN-SUFFIX,statsigapi.net,AI Suite
+DOMAIN-SUFFIX,featuregates.org,AI Suite
+DOMAIN-SUFFIX,prodregistryv2.org,AI Suite
+DOMAIN-SUFFIX,beyondwickedmapping.org,AI Suite
+DOMAIN,o1158394.ingest.us.sentry.io,AI Suite
+
 # > Tesla
 DOMAIN,tesla-cdn.thron.cn,DIRECT
 DOMAIN,tesla-cdn.thron.com,DIRECT

@@ -1,11 +1,6 @@
 #!name=Rule
 #!desc=Edit
 #!category=Enhancements
-#DOMAIN-KEYWORD,amemv,Google FCM
-#DOMAIN,api.weibo.cn,Google FCM
-#DOMAIN,api.weibo.com,Google FCM
-#DOMAIN,truthsocial.com,Google FCM
-#DOMAIN,trk.bonsa.net,Google FCM
 #DOMAIN,static-assets.truthsocial.com,Google FCM
 #IP-ASN,132203,DIRECT,no-resolve
 #DOMAIN-SUFFIX,gs-loc.apple.com,DIRECT
@@ -21,6 +16,12 @@ DOMAIN-KEYWORD,ultramobile,PayPal
 DOMAIN-KEYWORD,fidelity,PayPal
 DOMAIN-KEYWORD,USPS,PayPal
 DOMAIN-KEYWORD,venmo,PayPal
+USER-AGENT,MicroMessenger*,DIRECT
+PROCESS-NAME,WeChat,DIRECT
+DOMAIN-SUFFIX,wechat.com,DIRECT
+IP-CIDR,101.32.104.0/24,Proxy,no-resolve
+IP-CIDR,101.32.118.0/24,Proxy,no-resolve
+IP-CIDR,101.33.0.0/16,Proxy,no-resolve
 
 # > Claude
 DOMAIN-SUFFIX,stripe.com,AI Suite

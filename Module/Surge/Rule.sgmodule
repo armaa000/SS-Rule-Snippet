@@ -34,11 +34,11 @@ DOMAIN-SUFFIX,gtimg.cn,DIRECT,extended-matching
 DOMAIN-SUFFIX,myqcloud.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,tenpay.com,DIRECT,extended-matching
 URL-REGEX,^http:\/\/[\d.]+(:\d+)?\/mmtls\/,DIRECT
-IP-CIDR,101.32.0.0/16,Proxy,no-resolve
+IP-ASN,132203,Proxy,no-resolve
 IP-CIDR,101.33.0.0/16,Proxy,no-resolve
 IP-CIDR,118.89.100.0/24,Proxy,no-resolve
-IP-CIDR,43.160.144.0/24,Proxy,no-resolve
-IP-CIDR,43.156.222.0/24,Proxy,no-resolve
+IP-CIDR,119.91.240.0/21,Proxy,no-resolve
+IP-CIDR,129.211.156.0/24,Proxy,no-resolve
 
 # > Claude
 DOMAIN-SUFFIX,stripe.com,AI Suite

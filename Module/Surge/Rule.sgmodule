@@ -35,18 +35,6 @@ DOMAIN-SUFFIX,prodregistryv2.org,AI Suite
 DOMAIN-SUFFIX,beyondwickedmapping.org,AI Suite
 DOMAIN,o1158394.ingest.us.sentry.io,AI Suite
 
-# > Tesla
-DOMAIN,tesla-cdn.thron.cn,DIRECT
-DOMAIN,tesla-cdn.thron.com,DIRECT
-DOMAIN-SUFFIX,solarcity.com,DIRECT
-DOMAIN-SUFFIX,tesla.cn,DIRECT
-DOMAIN-SUFFIX,tesla.com,DIRECT
-DOMAIN-SUFFIX,tesla.com.cn,DIRECT
-DOMAIN-SUFFIX,teslamotors.cn,DIRECT
-DOMAIN-SUFFIX,teslamotors.com,DIRECT
-DOMAIN-SUFFIX,teslamotors.com.cn,DIRECT
-DOMAIN-SUFFIX,ts.la,DIRECT
-
 [Host]
 63182sh8-4d7b.apt-hcloud.net = 37f36sh0-2fd9.apt-agent.net
 7d0a2gz0-7a0c.apt-hcloud.net = 79d52gz8-a3k5.apt-agent.net

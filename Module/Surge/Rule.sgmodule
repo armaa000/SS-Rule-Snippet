@@ -17,15 +17,19 @@ DOMAIN-KEYWORD,venmo,PayPal
 PROCESS-NAME,WeChat,DIRECT
 PROCESS-NAME,WeChatAppEx Helper,DIRECT
 
+IP-CIDR,43.156.223.245/32,Proxy,no-resolve
+IP-CIDR,101.32.104.226/32,Proxy,no-resolve
+
+PROCESS-NAME,WeChat,DIRECT
+PROCESS-NAME,WeChatAppEx Helper,DIRECT
 USER-AGENT,MicroMessenger*,DIRECT
 USER-AGENT,WeChat*,DIRECT
 URL-REGEX,^http:\/\/\d+\.\d+\.\d+\.\d+(:\d+)?\/mmtls\/,DIRECT
 
 DOMAIN-SUFFIX,wechat.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,weixin.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,weixin.qq.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,wx.qq.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,wxs.qq.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,qq.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,gtimg.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,servicewechat.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,qpic.cn,DIRECT,extended-matching
 DOMAIN-SUFFIX,qlogo.cn,DIRECT,extended-matching
@@ -36,16 +40,8 @@ DOMAIN-SUFFIX,weixinsxy.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,wechatos.net,DIRECT,extended-matching
 DOMAIN-SUFFIX,wechatlegal.net,DIRECT,extended-matching
 DOMAIN-SUFFIX,iot-tencent.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,vweixinthumb.tc.qq.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,wxapp.tc.qq.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,wx.gtimg.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,lbs.gtimg.com,DIRECT,extended-matching
-DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net,DIRECT,extended-matching
-DOMAIN,dldir1.qq.com,DIRECT,extended-matching
-DOMAIN,shortconn.im.qcloud.com,DIRECT,extended-matching
-DOMAIN,vweixinf.tc.qq.com,DIRECT,extended-matching
-DOMAIN,weixin110.qq.com,DIRECT,extended-matching
-DOMAIN,wup.imtt.qq.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,qcloud.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,tencent-cloud.net,DIRECT,extended-matching
 
 IP-CIDR,43.160.144.0/20,DIRECT,no-resolve
 IP-CIDR,43.156.222.0/23,DIRECT,no-resolve
